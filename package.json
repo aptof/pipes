@@ -1,0 +1,15 @@
+{
+  "name": "@aptof/pipes",
+  "version": "0.0.1-beta.1",
+  "description": "Pipes for angular",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "author": "aptof",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
