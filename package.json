@@ -4,12 +4,13 @@
   "description": "Pipes for angular",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"tsc"
+    "test": "jasmine",
+    "build": "tsc"
   },
   "author": "aptof",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^3.6.4"
-  }
+  },
+  "dependencies": {}
 }
