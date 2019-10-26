@@ -4,12 +4,17 @@
   "description": "Pipes for angular",
   "main": "lib/index.js",
   "scripts": {
-    "test": "jasmine",
+    "test": "jest --watch",
     "build": "tsc"
   },
   "author": "aptof",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-typescript": "^7.6.0",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
     "typescript": "^3.6.4"
   },
   "dependencies": {}
