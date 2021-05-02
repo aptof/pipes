@@ -1,5 +1,6 @@
 # Pipes / Filters
-Inspired by angular
+Inspired by angular.
+ 
 Right now contains only the following functions
 * inr (Indian rupees currency format)
 * inrWord (Indian Rupees in word)
