@@ -1,7 +1,7 @@
 {
   "name": "@aptof/pipes",
-  "version": "0.0.1-beta.1",
-  "description": "Pipes for angular",
+  "version": "0.0.1-beta.2",
+  "description": "Frontend agnostics javascript pipes",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -11,13 +11,13 @@
   "author": "aptof",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.6.4",
-    "@babel/preset-env": "^7.6.3",
-    "@babel/preset-typescript": "^7.6.0",
-    "@types/jest": "^24.0.20",
-    "babel-jest": "^24.9.0",
-    "jest": "^24.9.0",
-    "typescript": "^3.6.4"
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
+    "@babel/preset-typescript": "^7.13.0",
+    "@types/jest": "^26.0.23",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "typescript": "^4.2.4"
   },
   "dependencies": {},
   "files": [
