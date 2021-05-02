@@ -1,4 +1,7 @@
 # Pipes / Filters
+
+[![aptof](https://circleci.com/gh/aptof/pipes.svg?style=svg)](<LINK>)
+
 Inspired by angular.
  
 Right now contains only the following functions
