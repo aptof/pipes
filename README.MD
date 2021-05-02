@@ -1,6 +1,6 @@
 # Pipes / Filters
 
-[![aptof](https://circleci.com/gh/aptof/pipes.svg?style=svg)](<LINK>)
+[![aptof](https://circleci.com/gh/aptof/pipes.svg?style=shield)](https://circleci.com/gh/aptof/pipes)
 
 Inspired by angular.
  
